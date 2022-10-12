@@ -1,0 +1,3 @@
+[submodule "app"]
+	path = app
+	url = git@github.com:jisundr/react-firebase-poc-app.git
